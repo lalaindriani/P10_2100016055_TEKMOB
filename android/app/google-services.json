@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570049853068",
+    "project_id": "fir-flutter-codelab-6f2af",
+    "storage_bucket": "fir-flutter-codelab-6f2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570049853068:android:482308223e2736d17f2da9",
+        "android_client_info": {
+          "package_name": "com.tekmob.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZkUhmv180QhCKxsRjTs0_HO3ZjnR_sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
